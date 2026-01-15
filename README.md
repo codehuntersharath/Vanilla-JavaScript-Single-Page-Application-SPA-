@@ -29,6 +29,24 @@ Designed as a **portfolio-ready frontend project** to understand how SPAs work b
 
 ---
 
+## 🌐 Live Demo
+<p align="center">
+  <a href="https://codehuntersharath.github.io/Vanilla-JavaScript-Single-Page-Application-SPA-">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-blue" />
+  </a>
+  <a href="https://youtu.be/LXg8VYbqrZ0">
+    <img src="https://img.shields.io/badge/🎥%20YouTube-Tutorial-red" />
+  </a>
+  <a href="https://github.com/codehuntersharath/Vanilla-JavaScript-Single-Page-Application-SPA-/stargazers">
+    <img src="https://img.shields.io/badge/⭐%20Star-Repo-yellow" />
+  </a>
+</p>
+
+🚀 Try the application live here:  
+👉 **https://codehuntersharath.github.io/Vanilla-JavaScript-Single-Page-Application-SPA-/**
+
+---
+
 ## 🎥 Full Video Tutorial
 Learn how this project is built step-by-step on YouTube:  
 
